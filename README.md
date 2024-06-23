@@ -1,8 +1,8 @@
-[Diego Souza'S GitHub stats](https://github-readme-stats.vercel.app/api?username=diego1195&show_icons=true&theme=transparent)
+![Diego Souza'S GitHub stats](https://github-readme-stats.vercel.app/api?username=diego1195&show_icons=true&theme=transparent)
 
 ## Programming Languages
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego1195&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego1195&langs_count=8&theme=dark)
 
 ## Technologies and Tools
 
